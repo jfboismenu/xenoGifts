@@ -1,0 +1,619 @@
+# Data taken from https://game8.co/games/Xenoblade-Chronicles-Definitive-Edition/archives/289015
+# Area    Shulk Reyn  Fiora  Dunban  Sharla Riki  Melia
+
+Category: Vegetable
+Sweet Wasabi
+Colony 9    -4  6   8   -10 2   14  -4
+Cool Potato
+Colony 9    2   4   10  2   -10 14  -4
+Red Lettuce
+Colony 9    -8  12  2   2   14  8   -10
+Chewy Radish
+Colony 9    -2  2   16  -4  4   10  4
+Hot Taro
+Bionis' Leg -10 -2  10  6   2   8   2
+Juicy Broccoli
+Bionis' Leg -12 6   14  2   2   8   -2
+Spicy Cabbage
+Bionis' Leg -4  24  10  -2  4   8   -16
+Hard Lotus
+Bionis' Leg -6  4   -6  2   16  14  -6
+Blue Turnip
+Satorl Marsh    4   2   12  2   -2  10  4
+Cute Parsnip
+Satorl Marsh    -6  4   20  -16 2   8   -2
+Poisonous Gourd
+Satorl Marsh    2   -2  10  2   2   4   2
+Humming Cabbage
+Satorl Marsh    -8  20  4   2   2   12  -10
+Sarsaparilla
+Bionis' Interior    -6  -2  2   2   16  8   2
+Black Liver Bean
+Bionis' Interior    2   8   12  8   4   -2  -2
+Schorl Mushroom
+Makna Forest    2   18  10  2   -4  8   -12
+Kelp Mushroom
+Makna Forest    -4  6   10  -10 4   16  -6
+Honey Rhubarb
+Makna Forest    -12 4   12  2   2   14  -4
+Pink Asparagus
+Eryth Sea   -8  6   -6  2   14  14  -4
+Tropical Radish
+Eryth Sea   -6  4   14  -4  2   2   2
+Dolphin Carrot
+Eryth Sea   6   4   8   2   -6  2   -4
+Gold Burdock
+Eryth Sea   -18 6   12  6   10  10  -6
+Sour Radish
+Valak Mountain  -4  2   10  2   2   8   -2
+Ice Cabbage
+Valak Mountain  -4  6   16  -6  -2  16  -2
+Girl Courgette
+Valak Mountain  -4  18  14  -6  2   8   -12
+Amethyst Vanilla
+Valak Mountain  -6  -8  8   2   2   10  8
+Fire Pepper
+Sword Valley    -6  12  -2  2   18  6   -8
+Meaty Carrot
+Sword Valley    -12 18  12  -2  8   8   -10
+Bitter Broccoli
+Sword Valley    6   4   10  2   -4  2   -2
+Sour Turnip
+Fallen Arm  2   4   4   2   2   8   -2
+Golden Beetroot
+Fallen Arm  -6  4   14  -6  -6  16  2
+Juicy Steakplant
+Mechonis Field  -8  4   10  2   8   2   -2
+Acerola Pea
+Mechonis Field  2   -2  8   2   -4  8   2
+Energy Aubergine
+Mechonis Field  10  28  10  10  -2  18  -12
+Sweet Pepper
+Mechonis Field  -10 4   14  -10 10  6   -4
+Meaty Potato
+Central Factory -6  24  10  2   2   8   -16
+Blue Root
+Central Factory -8  4   12  -10 2   14  -4
+
+Category: Fruit
+Dance Apple
+Colony 9    -2  -2  -2  2   10  10  2
+Black Kiwi
+Colony 9    2   -10 -4  2   12  2   12
+Clear Almond
+Tephra Cave 6   -12 -2  -4  6   6   14
+Bright Fig
+Tephra Cave 2   10  -2  -2  18  10  2
+Dark Grape
+Tephra Cave 4   -14 4   -14 12  6   14
+Sour Gooseberry
+Bionis' Leg 2   -4  -18 -2  24  16  4
+Red Durian
+Bionis' Leg -2  -2  6   -4  10  12  6
+Walnut Grape
+Bionis' Leg 8   -12 -2  -4  10  2   12
+Humming Plum
+Bionis' Leg 2   -6  -2  2   2   12  6
+Dark Mango
+Makna Forest    8   -6  -2  2   8   -4  6
+Pure Cherry
+Makna Forest    2   -2  -2  -2  12  8   6
+Bitter Kiwi
+Makna Forest    8   -6  -6  -4  10  10  12
+Juicy Grape
+Makna Forest    2   2   -2  -2  10  8   4
+Spicy Nut
+Frontier Village    8   -6  -12 -4  18  6   6
+Crimson Citrus
+Frontier Village    2   -14 4   -10 10  10  12
+Cool Lemon
+Alcamoth    -6  -6  -2  -6  12  14  8
+Heart Peach
+Alcamoth    -2  2   2   4   12  10  4
+Ether Plum
+Valak Mountain  2   -4  10  -20 6   8   10
+Fire Apple
+Valak Mountain  4   -2  -12 -2  22  8   2
+Ruby Mangosteen
+Valak Mountain  2   -14 4   -10 12  8   12
+Sour Grape
+Valak Mountain  10  -10 -2  -4  10  2   12
+Bitter Melon
+Sword Valley    10  -6  -8  -4  10  8   4
+Citron Gooseberry
+Sword Valley    2   -6  -2  -4  12  8   6
+Juicy Melon
+Sword Valley    4   8   -8  -2  10  14  2
+Amethyst Melon
+Sword Valley    4   -16 2   -2  12  10  20
+White Plum
+Fallen Arm  2   -4  -2  2   8   6   6
+Ice Kiwi Fruit
+Fallen Arm  2   -6  -8  -4  2   20  8
+Spicy Papaya
+Fallen Arm  -4  2   -2  2   10  8   2
+Large Mango
+Fallen Arm  6   -6  -2  2   12  -4  6
+Juicy Blueberry
+Agniratha   8   8   -2  -4  4   8   2
+Sweet Lime
+Agniratha   2   -2  4   -8  12  2   6
+Spicy Banana
+Agniratha   4   -6  -2  2   4   6   6
+Dry Lemon
+Prison Island   -2  -4  -2  -4  6   14  6
+Death Lychee
+Prison Island   2   2   4   -14 10  8   2
+Hell Raspberry
+Prison Island   -4  -6  -12 -4  30  6   6
+Deadly Kiwi
+Prison Island   4   -2  -2  4   4   4   6
+
+Category: Flower
+Strong Dandelion
+Colony 9    2   -12 6   4   10  -8  12
+Moon Flower
+Colony 9    8   6   2   -2  -4  -2  10
+Dawn Hydrangea
+Colony 9    -4  -2  4   -2  6   4   4
+Insanity Mint
+Tephra Cave 2   4   -8  -2  2   4   12
+Night Tulip
+Tephra Cave 2   -10 4   6   10  -8  10
+Cute Orchid
+Colony 6    4   -2  12  -8  2   4   10
+Sirius Anemone
+Colony 6    18  -4  8   2   4   -10 14
+Spirit Clematis
+Colony 6    -8  -8  6   12  2   -2  16
+Sunflower Rogue
+Satorl Marsh    -2  4   2   2   6   -2  10
+Merry Coronation
+Satorl Marsh    -4  -2  4   -2  8   4   4
+Ether Rose
+Satorl Marsh    -8  6   6   12  2   -2  2
+Orb Daisy
+Satorl Marsh    16  -2  8   4   4   -18 12
+Forget-You-Not
+Satorl Marsh    10  2   10  2   -10 2   18
+Enigma Lotus
+Makna Forest    2   -2  10  -8  2   4   10
+Humming Nettle
+Makna Forest    4   2   6   4   2   -6  6
+Princess Daffodil
+Makna Forest    8   -12 6   -2  2   -2  10
+Black Iris
+Makna Forest    -6  -2  14  6   2   -2  8
+Sea Berry
+Eryth Sea   -10 4   6   12  2   -2  6
+Despair Clover
+Eryth Sea   -2  2   8   12  4   -6  12
+Doomsday Poppy
+Eryth Sea   2   -18 6   2   10  -2  16
+Night Lily
+Eryth Sea   -2  2   6   4   -4  -8  18
+Razor Teasel
+Eryth Sea   2   -2  2   -2  2   10  4
+Mystic Dahlia
+Alcamoth    -4  -2  4   -2  4   -2  18
+Stardrop
+Alcamoth    -8  -8  6   12  2   -2  14
+Fortune Mallow
+Valak Mountain  2   -2  10  -8  2   4   10
+Black Peony
+Valak Mountain  2   -2  8   4   2   -2  4
+Fatal Belladonna
+Valak Mountain  2   -2  18  -2  4   -8  8
+Jujube Silver
+Sword Valley    -4  -10 6   -2  14  -2  10
+Black Blossom
+Sword Valley    16  -2  4   6   2   -18 10
+Abyss Heather
+Sword Valley    -8  -8  6   12  2   -2  14
+Delerium Foxglove
+Sword Valley    4   2   20  2   4   -6  8
+Azure Hollyhock
+Mechonis Field  22  -2  4   -2  -4  -12 10
+Utopia Crocus
+Mechonis Field  -2  2   12  -6  6   4   6
+Lewisia Silver
+Agniratha   4   10  2   -4  4   -2  4
+Freesia Cyst
+Agniratha   4   -6  8   2   2   6   12
+Bellflower Crystal
+Agniratha   8   6   2   -2  -2  -2  8
+
+
+Category: Animal
+Shin Newt
+Tephra Cave 4   18  6   2   -10 -10 4
+Cave Rat
+Tephra Cave 2   4   14  -10 2   -6  8
+Shin Gecko
+Tephra Cave 8   2   6   -2  2   -4  6
+Happy Rabbit
+Tephra Cave -6  10  18  -10 6   -6  6
+Pyro Lizard
+Colony 6    8   8   12  -10 2   -12 8
+Amblygon Turtle
+Colony 6    2   12  4   -2  6   -12 6
+Dobercorgi
+Colony 6    10  10  6   -4  -2  -16 22
+Light Bat
+Ether Mine  4   14  8   -4  -6  -8  6
+Black Frog
+Ether Mine  2   16  6   2   -10 -10 8
+Yellow Cat
+Ether Mine  2   20  2   -2  8   -4  6
+Chimera Rabbit
+Satorl Marsh    -6  10  -2  -2  2   2   20
+Venom Platypus
+Satorl Marsh    -4  10  6   2   -2  -10 18
+Humming Cat
+Satorl Marsh    -8  12  12  4   2   -6  2
+Blood Worm
+Bionis' Interior    4   10  26  -16 -2  -4  2
+Azure Mouse
+Bionis' Interior    14  12  6   -4  -6  -12 6
+Happy Duck
+Bionis' Interior    2   18  -2  -2  2   2   2
+Ash Fox
+Makna Forest    2   8   4   -4  6   -6  2
+Soft Sea Cucumber
+Makna Forest    2   10  6   -16 2   24  4
+Fossil Monkey
+Makna Forest    4   12  18  -10 -6  -6  10
+Venomous Lizard
+Makna Forest    2   -2  12  -2  -2  -4  14
+Sea Frog
+Eryth Sea   2   20  6   -2  -4  -6  6
+Mane Cat
+Eryth Sea   -8  4   14  10  -2  -2  4
+Wet Rat
+Valak Mountain  -4  10  2   8   2   -6  6
+Ice Monkey
+Valak Mountain  4   4   6   -2  2   2   6
+Crystal Frog
+Valak Mountain  -4  14  8   -4  12  -2  -4
+Mud Squirrel
+Valak Mountain  16  14  6   -6  -12 -16 8
+Oil Oyster
+Fallen Arm  4   6   6   -6  -4  -4  6
+Dark Fish
+Fallen Arm  2   12  6   2   2   -4  2
+Ether Penguin
+Fallen Arm  -2  12  8   12  -6  -2  2
+Rainbow Slug
+Fallen Arm  24  12  8   -2  4   -18 8
+Prism Centipede
+Central Factory -4  4   4   -4  6   -4  20
+Cable Mouse
+Central Factory 16  14  8   -10 4   -2  6
+Oil Fox
+Central Factory 2   10  18  -2  -2  -12 6
+Dancing Squirrel
+Prison Island   2   10  2   -4  2   6   2
+Lightning Weasel
+Prison Island   6   12  18  -10 -6  -6  6
+Angry Monkey
+Prison Island   -14 10  6   10  4   -4  2
+
+Category: Bug
+Prairie Dragonfly
+Colony 9    -8  4   -6  20  -4  16  -4
+Giant Hornet
+Colony 9    2   16  -8  8   -6  8   -8
+White Beetle
+Colony 9    2   4   6   10  -8  10  -10
+Sorrow Beetle
+Colony 9    4   2   -4  14  -4  14  4
+Brown Butterfly
+Tephra Cave 8   6   2   6   -12 16  -8
+Gold Caterpillar
+Tephra Cave -4  4   2   8   -4  10  2
+Rumble Stonefly
+Tephra Cave 16  -6  -2  10  2   2   -2
+White Ladybird
+Bionis' Leg 2   4   6   8   -2  10  -12
+Hill Firefly
+Bionis' Leg 2   2   2   10  -6  8   -8
+Moth Crawler
+Bionis' Leg -6  6   -2  2   -6  30  -10
+Queen Locust
+Bionis' Leg 2   -4  6   2   2   12  -4
+Fire Tarantula
+Bionis' Leg 2   -6  14  6   -4  8   10
+Black Beetle
+Ether Mine  2   6   2   12  -8  8   -8
+Rubber Mantis
+Ether Mine  -8  4   -2  16  -6  24  -4
+Mystery Firefly
+Ether Mine  16  2   2   8   -10 2   2
+Scarlet Ladybird
+Makna Forest    2   4   6   2   2   10  -12
+Shield Bug
+Makna Forest    22  6   -2  8   -12 2   -4
+Hades Beetle
+Makna Forest    2   4   2   12  -2  12  -10
+Benign Cricket
+Makna Forest    -4  10  -6  6   2   14  -4
+Rainbow Bug
+Frontier Village    2   -6  2   8   8   10  -14
+Empress Beetle
+Frontier Village    4   10  -4  12  -10 8   6
+Green Earwig
+High Entia Tomb 8   4   -6  8   -4  10  -6
+Blue Ladybird
+High Entia Tomb 2   2   -2  6   -8  8   10
+Wheel Lurker
+Galahad Fortress    2   10  -6  8   -14 16  -2
+Ultramarine Ant
+Galahad Fortress    8   10  -6  8   -12 10  -4
+Scarlet Crawler
+Mechonis Field  -4  4   6   4   -8  8   8
+Shiny Scarab
+Mechonis Field  2   -2  18  2   -6  10  -4
+Water Boatman
+Mechonis Field  18  12  2   8   -14 4   -2
+Dew Beetle
+Central Factory 8   4   -6  12  -6  4   -4
+Glider Cockroach
+Central Factory -4  6   -2  2   2   22  -6
+Electric Cricket
+Agniratha   2   -8  6   8   -6  10  4
+Scissor Bug
+Agniratha   2   10  2   8   -10 10  -12
+Senorita Scarab
+Prison Island   8   4   -6  10  -6  4   -2
+Emperor Beetle
+Prison Island   -8  2   6   14  -10 8   -2
+Minute Mantis
+Other   -10 2   -2  12  -8  22  -6
+Love Beetle
+Other   2   -12 2   10  2   10  4
+
+Category: Nature
+Kneecap Rock
+Tephra Cave 2   6   2   12  16  -4  -2
+Confusion Ivy
+Tephra Cave 6   4   -6  10  8   -2  -6
+Clarity Moss
+Tephra Cave 2   10  6   4   -2  -2  -4
+Mat Ice
+Bionis' Leg -4  8   -6  14  12  2   -6
+Bluesky Bark
+Bionis' Leg 4   4   -2  10  4   -2  8
+Pione Stone
+Bionis' Leg 2   -2  -6  12  8   -2  2
+Charcoal Leg
+Ether Mine  2   4   2   6   8   6   -6
+Ether Pebble
+Ether Mine  2   6   6   10  6   2   -12
+Rumble Coal
+Ether Mine  2   4   2   6   12  -6  -4
+Mist Tree
+Satorl Marsh    2   -4  2   8   14  2   -10
+Lemon Stone
+Satorl Marsh    -4  4   -6  14  12  -2  -6
+Feather Leaf
+Satorl Marsh    -2  4   -6  10  6   4   10
+Water Log
+Satorl Marsh    2   -2  8   16  4   -6  -6
+Wool Rock
+Satorl Marsh    -6  2   2   14  6   -6  8
+White Tail
+Eryth Sea   -4  10  2   6   8   -2  2
+Marine Marble
+Eryth Sea   10  2   8   12  4   -2  -2
+Oil Branch
+Eryth Sea   2   4   2   10  -4  -2  2
+Dilemma Rock
+Eryth Sea   2   12  2   4   6   14  -12
+Gypsum Branch
+Valak Mountain  10  4   -6  16  2   2   -4
+Black Ash
+Valak Mountain  2   6   2   14  14  -10 -14
+Emerald Snow
+Valak Mountain  4   4   -6  10  14  6   -14
+Rabbit Stone
+Valak Mountain  10  2   4   4   6   -8  -6
+Broom Icicle
+Valak Mountain  8   -2  6   10  2   -2  -8
+Poisonous Coral
+Fallen Arm  4   2   -4  16  8   2   4
+Poison Ivy
+Fallen Arm  2   -2  2   4   8   10  2
+Amber Leaf
+Fallen Arm  -6  -2  6   6   12  -2  -4
+Ivy Nest
+Mechonis Field  -4  2   -4  10  6   6   8
+Mossy Panel
+Mechonis Field  2   4   -6  10  10  4   -16
+Bronze Wood
+Mechonis Field  8   -2  6   10  2   2   -6
+White Styrene
+Central Factory -4  10  2   10  6   2   2
+Black Styrene
+Central Factory 2   4   -2  10  10  6   -8
+Blood Oil
+Central Factory 4   12  6   4   -2  -2  -6
+Missing Tree
+Agniratha   10  8   4   6   2   14  -6
+Fortune Feather
+Agniratha   -10 4   2   12  10  -2  6
+Absurd Branch
+Prison Island   4   4   -12 14  6   4   -6
+Insanity Moss
+Prison Island   -4  10  2   10  4   -2  -4
+
+Category: Parts
+Blue Chain
+Colony 9    30  2   -6  6   -4  -12 4
+Rabbit Diode
+Colony 9    8   2   12  -6  2   -4  6
+Rusty Bolt
+Bionis' Leg 10  6   -6  2   4   -2  8
+Winding Gear
+Bionis' Leg 24  4   -8  6   4   -12 2
+Black Chip
+Ether Mine  14  8   -12 12  2   -8  10
+Ready Coil
+Ether Mine  10  2   2   2   -2  6   2
+Blue Gear Shard
+Satorl Marsh    6   2   -6  18  -6  -2  4
+Rumble Part
+Satorl Marsh    8   6   -4  6   2   4   -6
+White Tube
+High Entia Tomb 8   -4  -6  8   8   2   4
+Green Diode
+High Entia Tomb 10  2   -10 6   -6  4   12
+Spiral Lamp
+High Entia Tomb 6   2   -6  12  2   2   2
+Gold Condenser
+Sword Valley    -6  2   -8  18  6   -2  6
+Purple Lamp
+Sword Valley    10  -6  -6  6   -6  -2  18
+Crimson Gear
+Sword Valley    10  -10 2   2   8   2   6
+Locust Spring
+Galahad Fortress    10  2   -12 6   -2  12  2
+Art Core Coil
+Galahad Fortress    18  2   -4  8   -8  2   12
+Tail Antenna
+Galahad Fortress    10  2   8   6   -2  -10 6
+Warning Lamp
+Fallen Arm  4   8   -10 4   6   -2  6
+Digital Filament
+Fallen Arm  24  -6  -6  6   2   -14 12
+Retro Diode
+Mechonis Field  8   2   2   2   -6  -2  14
+Modern Blue Gear
+Mechonis Field  16  -10 -4  8   4   2   4
+Snow Transistor
+Mechonis Field  10  8   -6  6   2   4   -4
+Angel Engine X
+Central Factory 10  -2  -4  8   12  2   4
+Leaf Coil
+Central Factory 10  2   -12 6   2   8   2
+Warrior Screw
+Central Factory 12  6   -6  2   2   -2  6
+Fancy Bolt
+Agniratha   10  2   2   -2  -2  4   8
+Blue Light Lamp
+Agniratha   16  -12 -6  6   4   2   6
+Fairy Tale Diode
+Agniratha   10  2   12  -6  -2  -2  4
+Grape Spring
+Agniratha   24  -6  -4  6   2   -14 10
+White Cover
+Prison Island   12  6   8   2   -2  -4  2
+Modern Resistor
+Prison Island   10  -18 -6  6   6   4   12
+Green Cam
+Prison Island   12  2   -12 6   -2  10  2
+Strong Screw
+Prison Island   16  2   8   -2  -6  -6  6
+Golden Cog
+Other   4   -2  2   6   -2  -4  14
+Angel Engine Y
+Other   2   6   -6  18  2   -2  2
+Thunder Compass
+Other   18  2   -4  6   8   -12 6
+
+Category: Strange
+Plate Snow
+Colony 9    -6  10  4   16  4   4   -2
+Rainbow Zirconia
+Colony 9    4   -6  4   4   6   6   8
+Leaf Mystery
+Tephra Cave 4   6   -2  4   -4  10  10
+Steel Silk
+Tephra Cave 4   4   4   8   4   2   18
+Gold Dust Illusion
+Bionis' Leg -2  -6  4   4   16  4   6
+Devious Gravity
+Bionis' Leg 4   12  -2  10  4   -4  4
+White Songbird
+Bionis' Leg 4   10  4   4   6   10  -8
+Death Bangle
+Bionis' Leg -10 6   6   18  12  4   6
+Verdant Eternity
+Colony 6    6   10  -8  4   4   12  4
+White Night Rod
+Colony 6    6   16  -2  4   6   4   2
+Love Crane
+Ether Mine  -2  4   16  -2  10  4   2
+Fire Abron
+Ether Mine  -6  2   10  12  4   6   4
+Pauper's Cup
+Satorl Marsh    24  6   4   4   -2  -8  6
+Happy Carnival
+Satorl Marsh    12  6   6   6   2   12  2
+Dawn Dice
+Satorl Marsh    4   4   18  -8  6   4   2
+Tap Tap Tap
+Bionis' Interior    2   4   10  -2  -2  4   10
+High Entia Jewel
+Bionis' Interior    4   -12 4   6   12  2   12
+Lemonade Sky
+Makna Forest    2   6   4   16  -2  6   2
+Forest of Gossip
+Makna Forest    4   4   -4  4   4   16  -2
+Gravel Disk
+Makna Forest    8   14  2   8   14  8   -2
+Rumble Box
+Frontier Village    4   -2  4   4   -2  4   16
+Black Panel
+Frontier Village    18  2   4   10  4   -12 6
+High Violet
+Eryth Sea   4   4   -2  4   6   6   8
+Steel Hauyne
+Eryth Sea   18  -4  6   4   2   -4  12
+Ha Ha Ha
+Alcamoth    4   10  16  -2  4   4   2
+Thunder Atmos
+Alcamoth    2   10  6   6   12  10  2
+Tasty Sausage
+High Entia Tomb -2  2   10  -6  10  4   -2
+Macro Passion
+High Entia Tomb 4   6   10  -2  4   10  2
+Frost Glass
+Valak Mountain  6   6   2   6   2   14  10
+Large Handcuffs
+Valak Mountain  4   10  -2  4   4   10  -2
+Red Frontier
+Sword Valley    6   12  6   2   6   8   6
+Darkness Bottle
+Sword Valley    2   4   4   10  -2  -2  10
+Bud of Eternity
+Sword Valley    6   -6  -2  4   10  10  6
+Hunger Crash
+Galahad Fortress    2   22  -4  2   2   2   -4
+Splish Splash
+Galahad Fortress    4   10  4   -2  6   4   2
+Star Cute
+Fallen Arm  4   4   12  -2  2   10  2
+Summer Star
+Fallen Arm  2   -4  4   -2  4   10  4
+Tweet Tweet
+Mechonis Field  -2  4   16  -2  10  4   4
+Flame Frame
+Mechonis Field  6   6   -2  4   2   14  -4
+Smoke Cylinder
+Central Factory 6   -14 6   4   10  4   14
+Sacred Panther
+Central Factory 6   8   6   12  2   2   12
+Parts Noble
+Central Factory 6   2   4   4   10  6   2
+Eryth Blue
+Agniratha   10  6   4   4   -8  4   10
+Dramatic Night
+Agniratha   18  4   4   10  4   -12 4
+Blue Glow
+Prison Island   2   6   4   16  -2  4   2
+Blue Blood
+Prison Island   18  6   10  -2  4   -6  4
+Coin of Fortune
+Other   -2  2   4   4   6   4   12
+Love Source
+Other   100 100 100 100 100 100 100
