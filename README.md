@@ -20,6 +20,6 @@ optional arguments:
   --any                 If set, this prints any gifts that give bonus to a relationship instead of only the best.
 ```
 
-For example to get the best gifts for Fiora, type `python get_best_gifts.py fiora`. If you are in the endgame and are not looking for giving the best gift but any gift, as long as it boosts affinity, add `-any`.
+For example to get the best gifts for Fiora, type `python get_best_gifts.py fiora`. If you are in the endgame and are not looking for giving the best gift but any gift, as long as it boosts affinity, add `--any`.
 
 The affinity scores were extracted from https://game8.co/games/Xenoblade-Chronicles-Definitive-Edition/archives/289015
