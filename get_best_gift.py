@@ -48,22 +48,11 @@ def read_gifts():
 gifts = read_gifts()
 character = sys.argv[1]
 
-if "sort" in sys.argv:
-    sys.argv.remove("sort")
-    sort_by_name = True
-else:
-    sort_by_name = False
-
-if "best" in sys.argv:
-    sys.argv.remove("best")
-    keep_only_if_best = True
-else:
+if "any" in sys.argv:
+    sys.argv.remove("any")
     keep_only_if_best = False
-
-if len(sys.argv) == 3:
-    category = sys.argv[2]
 else:
-    category = None
+    keep_only_if_best = True
 
 gifts = filter(lambda gift: int(gift.affinities[character]) > 0, gifts)
 
@@ -77,20 +66,9 @@ def is_best(gift):
 
     return True
 
+gifts = filter(is_best, gifts)
 
-if category:
-    gifts = filter(lambda gift: gift.category.lower() == category.lower(), gifts)
-
-if keep_only_if_best:
-    gifts = filter(is_best, gifts)
-
-def sorter(gift):
-    return 
-
-if sort_by_name:
-    gifts = sorted(gifts, key=lambda gift: gift.item_name)
-else:
-    gifts = sorted(gifts, key=lambda gift: int(gift.affinities[character]))
+gifts = sorted(gifts, key=lambda gift: gift.item_name)
 
 for gift in gifts:
     print(", ".join((gift.item_name, gift.category, gift.location, str(gift.affinities))))
